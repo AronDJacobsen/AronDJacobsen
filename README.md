@@ -2,7 +2,7 @@
 
 
 - 📚 Study: MSc. Eng. in Human-Centered Artificial Intelligence
-- 💼 Work: *AI and data* consultant at *SMJ*
+- 💼 Work: AI and data consultant at SMJ
 
 
 <!--
