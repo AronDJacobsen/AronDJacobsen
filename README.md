@@ -1,4 +1,9 @@
-# Hello World 😅
+# Hello World 🇫🇴
+
+
+- 📚 Study: MSc. Eng. in Human-Centered Artificial Intelligence
+- 💼 Work: *AI and data* consultant at *SMJ*
+
 
 <!--
 **AronDJacobsen/AronDJacobsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
