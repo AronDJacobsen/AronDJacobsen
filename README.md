@@ -18,8 +18,10 @@ Keywords: 80-20 principle, 10/20/70 rule, MVP, Modular, Coffee
 
 ---
 Beyond the data: 
-  • 🤸‍♂️ I am a Nordic Champion and a 3x Danish All-Around Champion in Artistic Gymnastics.
+
+🤸‍♂️ I am a Nordic Champion and a 3x Danish All-Around Champion in Artistic Gymnastics.
 
 ---
 Fun fact: 
-  • 🛒 Worked five wholesome years at a grocery store because co-workers turned into amazing friends <3
+
+🛒 Worked five wholesome years at a grocery store because co-workers turned into amazing friends <3
